@@ -6,7 +6,8 @@ in the graph traces back to a source document and location. Provenance is not an
 afterthought — it is load-bearing.
 
 For the conceptual foundation, see **[Overview](overview.md)** and
-**[Architecture](architecture.md)**.
+**[Architecture](architecture.md)**. For book-length treatments of the full
+pipeline, see **[Graphwright Publications](books.md)**.
 
 ---
 
