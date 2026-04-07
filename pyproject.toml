@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "mkdocs>=1.6.0",
     "mkdocs-material>=9.0.0",
+    "mkdocs-pdf-export-plugin>=0.5.10",
     "pymdown-extensions>=10.0",
     "zensical",
 ]

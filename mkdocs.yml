@@ -27,6 +27,12 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  # External URLs only: Material nests this as a collapsible section (expand to see links).
+  - Live tools:
+      - Medical literature chat: /chat/
+      - OpenAPI spec: /docs/
+      - Graph visualization: /graph-viz/
+      - GraphQL GUI: /graphiql/
   - Overview: overview.md
   - Architecture: architecture.md
   - Identity:

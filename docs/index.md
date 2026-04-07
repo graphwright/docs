@@ -9,6 +9,13 @@ For the conceptual foundation, see **[Overview](overview.md)** and
 **[Architecture](architecture.md)**. For book-length treatments of the full
 pipeline, see **[Graphwright Publications](books.md)**.
 
+## Live tools
+
+- [Medical literature chat](/chat/)
+- [OpenAPI spec](/docs/)
+- [Graph visualization](/graph-viz/) — currently focused on medical literature
+- [GraphQL GUI](/graphiql/)
+
 ---
 
 ## Concepts and Architecture
