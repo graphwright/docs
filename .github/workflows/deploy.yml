@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+      - fix-math-and-dead-link
+  workflow_dispatch:
 
 permissions:
   contents: read
