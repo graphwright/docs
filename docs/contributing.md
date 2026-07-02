@@ -10,7 +10,7 @@
 
 ## Extension points
 
-- **Domain**: Implement `DomainSchema`, entity/relationship/document subclasses, and pipeline components (parser, entity extractor, resolver, relationship extractor). See [Adapting to Your Domain](adapting-to-your-domain.md) and the medlit/sherlock examples.
+- **Domain**: Implement `DomainSchema`, entity/relationship/document subclasses, and pipeline components (parser, entity extractor, resolver, relationship extractor). See [Adapting to Your Domain](schema/adapting-to-your-domain.md) and the medlit/sherlock examples.
 - **Canonical ID**: Implement `CanonicalIdLookupInterface` and optionally `CanonicalIdCacheInterface` for new authorities.
 - **Storage**: Implement kgschema storage interfaces for new backends (e.g. another database or vector store).
 - **Pipeline**: Implement the pipeline ABCs (DocumentParserInterface, EntityExtractorInterface, etc.) for new extraction or resolution strategies.

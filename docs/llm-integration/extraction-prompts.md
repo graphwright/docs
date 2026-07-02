@@ -1,9 +1,5 @@
 # Prompt Design for Extraction
 
-> **Placeholder** — this page needs to be written. See also
-> [`../schema/adapting-to-your-domain.md`](../schema/adapting-to-your-domain.md)
-> for the step-by-step workflow.
-
 Extraction quality depends heavily on prompt design. This page covers principles and
 patterns for writing prompts that produce reliable, schema-conformant output.
 

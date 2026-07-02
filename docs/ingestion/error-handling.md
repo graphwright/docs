@@ -1,7 +1,5 @@
 # Error Handling
 
-> **Placeholder** — this page needs to be written.
-
 Ingestion pipelines fail in predictable ways: LLMs return malformed JSON, authority
 lookups time out, documents are corrupt. This page covers how the framework handles
 partial failures without losing work.

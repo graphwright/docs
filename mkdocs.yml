@@ -28,11 +28,13 @@ nav:
   # External URLs only: Material nests this as a collapsible section (expand to see links).
   - Live tools:
       - Medical literature chat: /chat/
-      - OpenAPI spec: /docs/
       - Graph visualization: /graph-viz/
       - GraphQL GUI: /graphiql/
   - Overview: overview.md
   - Architecture: architecture.md
+  - BFS-QL Protocol: BFS-Query-Language.md
+  - Formal Definitions: formal-defns.md
+  - Horn Clauses & Datalog: horn-clauses-datalog.md
   - Identity:
     - Canonical IDs: identity/canonical-ids.md
     - Deduplication: identity/deduplication.md
@@ -43,6 +45,7 @@ nav:
     - Pipeline: ingestion/pipeline.md
     - Chunking: ingestion/chunking.md
     - Error Handling: ingestion/error-handling.md
+    - NER Pipeline: NER-pipeline.md
   - LLM Integration:
     - MCP Server: llm-integration/mcp-server.md
     - MCP Troubleshooting: llm-integration/mcp-troubleshooting.md
@@ -57,6 +60,9 @@ nav:
   - Examples:
     - Medlit: examples/medlit.md
     - Sherlock: examples/sherlock.md
+  - Cookbook: Cookbook.md
   - Contributing: contributing.md
-  - Books: books.md
+  - Books:
+    - Overview: books.md
+    - Book Outline (Draft): Book-outline-20260702.md
 

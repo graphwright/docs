@@ -1,3 +1,5 @@
+# NER Pipeline
+
 This document walks through the Named Entity Recognition (NER) pipeline in this
 repository, explains the design rationale for each step, discusses which steps can
 run entirely on local hardware and which require frontier cloud models, and

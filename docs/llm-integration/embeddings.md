@@ -1,7 +1,5 @@
 # Embeddings
 
-> **Placeholder** — this page needs to be written.
-
 Embeddings enable semantic search over the knowledge graph — finding entities by
 meaning rather than exact string match.
 

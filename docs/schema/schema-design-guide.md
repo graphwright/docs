@@ -1,8 +1,5 @@
 # Schema Design Guide
 
-> **Placeholder** — content to be migrated and expanded from
-> [`../schema-design-guide.md`](../schema-design-guide.md).
-
 This guide describes how to define your domain's entities, relationships, and documents
 using **kgschema**.
 

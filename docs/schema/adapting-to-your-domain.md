@@ -1,8 +1,5 @@
 # Adapting to Your Domain
 
-> **Placeholder** — content to be migrated and expanded from
-> [`../adapting-to-your-domain.md`](../adapting-to-your-domain.md).
-
 Step-by-step guide to implementing the framework for a new domain.
 
 ## Step 1: Define your schema

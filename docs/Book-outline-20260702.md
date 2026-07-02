@@ -1,3 +1,5 @@
+# Book Outline (Draft)
+
 > **Working title.** Subtitle options: *Strong Types, Provenance, and Ontology Alignment in High-Stakes Domains* / *A Practical Guide to Reliable Knowledge Extraction*.
 
 ---

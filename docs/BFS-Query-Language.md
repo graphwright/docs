@@ -1,3 +1,5 @@
+# BFS-QL: A Graph Query Language for LLMs
+
 ## Overview
 
 The BFS query ([breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)) provides a single, general-purpose mechanism for retrieving subgraphs from the

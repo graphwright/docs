@@ -1,7 +1,5 @@
 # Chunking Strategies
 
-> **Placeholder** — this page needs to be written.
-
 Before an LLM can extract entities and relationships, a document must be segmented into
 chunks that fit within a context window and preserve enough surrounding context to make
 extraction meaningful.

@@ -1,3 +1,5 @@
+# Horn Clauses & Datalog
+
 A practical guide to writing `Rule(phi => psi)` declarations against the
 typed graph, and to what actually runs today versus what is still a design
 pattern waiting on an inference engine.
