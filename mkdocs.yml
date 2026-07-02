@@ -3,10 +3,8 @@ site_description: Documentation for the domain-agnostic knowledge graph server
 repo_url: https://github.com/wware/kgraph
 repo_name: wware/kgraph
 
-# Served under /site/ by FastAPI; use relative URLs so nav and in-doc links work.
-site_url: http://localhost:8000/site/
-# Avoid directory-style URLs (/overview/) so links stay relative (overview.html) under /site/
-use_directory_urls: false
+site_url: https://graphwright.github.io/docs/
+use_directory_urls: true
 # Explicit docs dir (Dockerfile copies docs/ and kgserver/index.md into it)
 docs_dir: docs
 
