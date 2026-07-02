@@ -1,8 +1,5 @@
 # MCP Server
 
-> **Placeholder** — content to be expanded from
-> [`../deployment-and-operations.md`](../deployment-and-operations.md).
-
 You want to expose a Model Context Protocol (MCP) endpoint that allows LLMs and
 agents to query the knowledge graph as a tool. When working in Python, the
 FastMCP library is good for this.

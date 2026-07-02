@@ -1,3 +1,5 @@
+# Formal Definitions
+
 This defines the formal model precisely, establishes vocabulary, states hard rules,
 and lists explicit non-goals. When in doubt, check against this file before generating
 code, prose, or schema definitions.

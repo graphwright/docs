@@ -1,8 +1,5 @@
 # Trust and Provenance
 
-> **Placeholder** — this page needs to be written. Content currently lives in
-> fragments across the pipeline and storage docs.
-
 Provenance is the philosophical core of this project. Every assertion in the graph
 must be traceable to a source document, a location within that document, and the
 extraction step that produced it. Transparency is not an afterthought — it is

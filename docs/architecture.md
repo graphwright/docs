@@ -99,7 +99,7 @@ The framework provides abstractions for working with canonical IDs (stable ident
 - **`CanonicalIdLookupInterface`**: Abstract interface for looking up canonical IDs
 - **Helper functions**: Utilities for extracting canonical IDs from entities (`extract_canonical_id_from_entity`, `check_entity_id_format`)
 
-Promotion policies use these abstractions to assign canonical IDs to entities. See [Canonical IDs and Entity Resolution](canonical-ids-and-entity-resolution.md) for details.
+Promotion policies use these abstractions to assign canonical IDs to entities. See [Canonical IDs and Entity Resolution](identity/canonical-ids.md) for details.
 
 ## Major Components and How They Relate
 

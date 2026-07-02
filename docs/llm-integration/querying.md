@@ -1,7 +1,5 @@
 # Querying the Graph with LLMs
 
-> **Placeholder** — this page needs to be written.
-
 This page covers how LLMs navigate and query the knowledge graph in practice — what
 patterns work, what to avoid, and how to structure agent prompts for effective graph use.
 

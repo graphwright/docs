@@ -1,3 +1,5 @@
+# Cookbook
+
 A practical guide to querying, testing, and extending the `ner_20260608` wheel.
 
 > **Where this lives:** `docs/cookbook.md` in the source repo.

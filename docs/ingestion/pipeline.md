@@ -1,8 +1,5 @@
 # The Ingestion Pipeline
 
-> **Placeholder** — content to be migrated and expanded from
-> [`../pipeline.md`](../pipeline.md).
-
 ## Two-pass architecture
 
 The pipeline uses a two-pass architecture:

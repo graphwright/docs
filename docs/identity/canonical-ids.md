@@ -1,8 +1,5 @@
 # Canonical IDs and Entity Resolution
 
-> **Placeholder** — content to be migrated and expanded from
-> [`../canonical-ids-and-entity-resolution.md`](../canonical-ids-and-entity-resolution.md).
-
 ## The importance of canonical IDs
 
 Canonical IDs are stable identifiers drawn from accepted ontologies — UMLS, MeSH, HGNC,

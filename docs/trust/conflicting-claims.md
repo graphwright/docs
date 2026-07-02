@@ -1,7 +1,5 @@
 # Conflicting Claims
 
-> **Placeholder** — this page needs to be written.
-
 Scientific and legal literature routinely contains contradictory claims. A graph that
 silently resolves conflicts by picking a winner destroys information. This framework
 represents disagreements explicitly.

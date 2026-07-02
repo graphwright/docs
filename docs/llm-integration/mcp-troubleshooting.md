@@ -1,7 +1,5 @@
 # MCP Troubleshooting
 
-> **Placeholder** — this page needs to be written.
-
 Things that go wrong with MCP connections, and how to fix them.
 
 ## Connection issues

@@ -1,7 +1,5 @@
 # Deduplication
 
-> **Placeholder** — this page needs to be written.
-
 Deduplication handles the case where two entity records refer to the same real-world
 thing but have not yet been linked by canonical ID — either because both are provisional,
 or because authority lookup returned different IDs that are actually synonymous.

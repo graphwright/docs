@@ -14,6 +14,6 @@ For the conceptual foundation — why knowledge graphs, why extraction from text
 ## Where to go next
 
 - [Architecture](architecture.md) — Components and how they relate.
-- [Schema Design Guide](schema-design-guide.md) — Define your domain with kgschema.
-- [The Pipeline](pipeline.md) — Parsing, extraction, dedup, resolution, bundle building.
-- [Adapting to Your Domain](adapting-to-your-domain.md) — Step-by-step guide to add a new domain.
+- [Schema Design Guide](schema/schema-design-guide.md) — Define your domain with kgschema.
+- [The Pipeline](ingestion/pipeline.md) — Parsing, extraction, dedup, resolution, bundle building.
+- [Adapting to Your Domain](schema/adapting-to-your-domain.md) — Step-by-step guide to add a new domain.
