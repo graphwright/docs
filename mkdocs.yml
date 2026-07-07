@@ -40,6 +40,7 @@ nav:
   - Formal Definitions: formal-defns.md
   - Horn Clauses & Datalog: horn-clauses-datalog.md
   - NER Pipeline: NER-pipeline.md
+  - Wheel Packaging: Wheel-file.md
   - Cookbook: Cookbook.md
   - Book Outline (Draft): Book-outline-20260702.md
 
